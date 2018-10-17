@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.xmax.services;
+package com.xmax.util.util;
 
 import fr.opensagres.xdocreport.converter.ConverterTypeTo;
 import fr.opensagres.xdocreport.converter.Options;
@@ -25,7 +25,7 @@ import java.util.Map;
  *
  * @author jcernaq
  */
-public class WordGeneratorService {
+public class WordGenerator {
     /**
      * Toma la ruta de fichero y devuelve un stream abierto para su lectura.
      * 
